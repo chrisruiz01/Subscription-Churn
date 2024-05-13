@@ -81,4 +81,4 @@ Top four feature importances of the final GB model:
 * 'churn' and 'avg_price' increased steadily over three years, indicating that the company lacks effective marketing strategies.
 * The company should identify customers in lower-priced plans or those who have downgraded and implement marketing strategies to retain them by offering incentives to upgrade.
 * The most frequent (mode) avg_price is $53, which aligns with the 'BASIC' plan, so the company should take a close look at this opportunity to target those customers and retain them with offers for upgrades.
-* The company should dive deep into what's working well in Norway and Sweden, which have much higher retention rates (up to 5x that of Finland), and test  similar marketing strategies for customers in Finland.
+* The company should dive deep into what's working well in Norway and Sweden, which have much higher retention rates, and test similar marketing strategies for customers in Finland.
