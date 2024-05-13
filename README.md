@@ -36,7 +36,7 @@ The following two lineplots are aggregated by all customers and indicate an incr
 
 ![price time](assets/price_time.png)
 
-Customers in Finland have about 3x churn vs Sweden and 5x churn vs Norway (table below plot). The remaining categorical features vs. churn were split more evenly and did not reveal any significant insights.
+Customers in Finland have the highest churn rate compared to the other countries. The remaining categorical features vs. churn were split more evenly and did not reveal any significant insights.
 
 ![bar](assets/bar.png)
 
